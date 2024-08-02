@@ -20,19 +20,21 @@ Step4 簽核程序
 
 需求確認及分析：\~8/9
 
-系統開發：8/12\~9/13 (25D)
+系統開發：8/12\~9/20 (29D, 9/17中秋放假)
 
-QA測試：9/16\~9/27 (9D, 9/17中秋放假)
+QA測試：9/23\~10/4 (10D)
 
-系統操作陪訓：9/30 (1D)
+系統操作陪訓：10/7 (1D)
 
-UAT測試：9/30\~10/11  (10D)
+UAT測試：10/7\~10/11  (5D)
 
 上線：10/14
 
 上線後驗證：10/15\~10/18 (4D)
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ***
 
