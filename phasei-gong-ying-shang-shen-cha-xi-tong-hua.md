@@ -32,9 +32,7 @@ UAT測試：10/7\~10/11  (5D)
 
 上線後驗證：10/15\~10/18 (4D)
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
