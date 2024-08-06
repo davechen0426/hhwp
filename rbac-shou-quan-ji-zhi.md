@@ -92,7 +92,7 @@ description: 授權機制
   * 預設全選，基本具備查詢(Read)權限。
 * 作用於目錄內功能及按鈕顯示及訪問/操作權限
 * 功能/報表開發後需要註冊，及定義該功能或報表支援的操作類型增/刪/改/查/匯出/匯入等。需要實作角色設定的權限控管
-  * e.g. 新增「各場站準點率報表」，支援查詢及匯出報表操作，則於權限設定時，Resource「各場站準點率報表」支援兩種操作Operation設定查詢(Read)及匯出(Export)
+  * e.g. 新增「各場站準點率報表」，支援查詢及匯出報表操作，則於權限設定時，Resource「各場站準點率報表」支援兩種操作設定Operation查詢(Read)及匯出(Export)
 {% endtab %}
 
 {% tab title="Scopes 資料範圍" %}
@@ -138,14 +138,6 @@ description: 授權機制
 <details>
 
 <summary>帳號管理</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>角色管理</summary>
 
 
 
