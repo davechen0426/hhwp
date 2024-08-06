@@ -6,7 +6,7 @@ description: 授權機制
 
 ## 架構
 
-以Role Based Accecc Control機制延生設計以下系統授權機制
+以Role Based Accecc Control機制延伸設計以下系統授權機制
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
