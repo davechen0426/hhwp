@@ -4,9 +4,17 @@ description: 授權機制
 
 # RBAC授權機制
 
-以Role Based Accecc Control機制延生以下系統授權機制
+## 架構
 
+以Role Based Accecc Control機制延生設計以下系統授權機制
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+說明
+
+* 多租戶架構，跨租戶間數據不流通，不共享
+* 當用戶有跨租戶管理需求，則需切換不同帳號
+* 以下以單一租戶說明
 
 
 
@@ -37,3 +45,44 @@ description: 授權機制
 * 考量不同維度設定資料範圍的需求
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+## 系統功能
+
+
+
+<details>
+
+<summary>組織管理</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>帳號管理</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>角色管理</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>角色權限管理</summary>
+
+
+
+</details>
+
