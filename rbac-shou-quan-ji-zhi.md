@@ -140,17 +140,19 @@ description: 授權機制
 
 <summary>組織管理</summary>
 
+設定三層組織樹狀圖
+
+Operations: 查詢/新增/刪除/修改 組織功能
+
 僅開放給超級管理員權限
-
-維護三層組織樹狀圖
-
-
 
 </details>
 
 <details>
 
 <summary>用戶帳號管理</summary>
+
+帳號管理功能，設定帳號角色
 
 Operations: 查詢/新增/刪除/修改 用戶帳號功能
 
@@ -178,7 +180,25 @@ email：
 
 <summary>角色權限管理</summary>
 
+設定角色功能權限
+
+設定角色資料範圍
+
 Operations: 查詢/新增/刪除/修改 角色功能
+
+
+
+</details>
+
+<details>
+
+<summary> 功能管理</summary>
+
+功能註冊
+
+功能代碼
+
+支援操作類型
 
 </details>
 
