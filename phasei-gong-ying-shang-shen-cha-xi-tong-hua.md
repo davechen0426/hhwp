@@ -167,7 +167,7 @@ UAT測試：10/7\~10/11  (5D)
 
 ### 4. 食品業者評估申請表
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 需要by活動批次產生申請單的功能，並狀態為"供應商填寫"，就是直接送給\[表單權責單位]來填單
 
