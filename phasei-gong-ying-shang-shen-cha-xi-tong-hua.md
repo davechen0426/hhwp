@@ -32,7 +32,7 @@ UAT測試：10/7\~10/11  (5D)
 
 上線後驗證：10/15\~10/18 (4D)
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -95,7 +95,7 @@ UAT測試：10/7\~10/11  (5D)
 
 ## 系統流程設計
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 流程說明
 
@@ -167,7 +167,7 @@ UAT測試：10/7\~10/11  (5D)
 
 ### 4. 食品業者評估申請表
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 需要by活動批次產生申請單的功能，並狀態為"供應商填寫"，就是直接送給\[表單權責單位]來填單
 
@@ -179,9 +179,10 @@ UAT測試：10/7\~10/11  (5D)
 *   填寫資訊tab-預計販售商品資料
 
     * 移除附上DM設定
-    * 改成多筆輸入的方式，欄位包含禮盒名稱、商品名稱、商品類型(選項)、商品保存方式(選項)、有效日期，e.g.
+    * 改成多筆輸入的方式，欄位包含禮盒名稱、商品名稱、商品類型(選項)、商品保存方式(選項)、有效日期。一個禮盒包含多種商品，需要分別列示; 若為單一商品
+    * e.g.
 
-    <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 *   填寫資訊tab-應備文件
 
     * 只要第一階層資料夾即可，不用再根據不同文件細分子資料夾
@@ -210,9 +211,16 @@ UAT測試：10/7\~10/11  (5D)
 ### 5. 新增功能：食品業者評估報告
 
 * 提供活動名稱、報告編號等搜尋條件
-* 排除狀態="審核不通過"的食品業者評估申請表
+* 排除狀態="取消申請"的食品業者評估申請表
 * 顯示總表所有欄位：編號、廠商名稱、禮盒名稱、商品名稱、商品類型、保存方式、有效日期、抽樣品項、樣品收件日期、收件重量、測項、外檢、檢驗結果、檢驗報告編號、統一編號、申請表、登記證明文件、食品業者登錄字號、產品責任險、成品檢驗報告、食品及相關產品輸入許可通知、食品安全品質系統證明、文件審查結果、審查結果說明、文件審查報告編號
-* 提供匯出功能
+* 提供匯出總表功能
+*   提供匯出單一筆"食品業者評估報告"的功能
+
+    * 其中供應品項列出所有禮盒名稱(不用顯示內含的每項商品)
+
+    e.g.
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
