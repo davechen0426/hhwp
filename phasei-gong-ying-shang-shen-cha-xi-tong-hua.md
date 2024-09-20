@@ -1,6 +1,6 @@
 # Phase I 供應商審查系統化
 
-## 目標：2025新春選禮供應商審查作業
+目標：2025新春選禮供應商審查作業
 
 作業程序
 
@@ -167,7 +167,13 @@ UAT測試：10/7\~10/11  (5D)
 
 ### 4. 食品業者評估申請表
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>狀態圖</p></figcaption></figure>
+
+角色與功能操作權限表
+
+<table><thead><tr><th width="338">功能操作/角色</th><th width="115">中央健衛</th><th>申請單位</th><th>公關公司</th><th>供應商</th></tr></thead><tbody><tr><td>[列表頁] 新增</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[列表頁] 查看明細</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[列表頁] 匯入</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[列表頁] 取消申請</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 發起</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 取消申請</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 填寫資訊 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 審核資訊 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 抽樣品項 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 流程簽核紀錄 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][供應商填寫] 送審</td><td>X</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][供應商填寫] 取消申請</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][供應商填寫] 填寫資訊 頁籤</td><td>X</td><td></td><td></td><td></td></tr><tr><td>[明細頁][供應商填寫] 審核資訊 頁籤</td><td>X</td><td></td><td></td><td></td></tr><tr><td>[明細頁][供應商填寫] 抽樣品項 頁籤</td><td></td><td></td><td></td><td></td></tr><tr><td>[明細頁][供應商填寫] 流程簽核紀錄 頁籤</td><td></td><td></td><td></td><td></td></tr><tr><td>[明細頁][已提交] 審核-審核通過</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][已提交] 審核-退回供應商</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][已提交] 取消申請</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][審核通過] 食品業者評估報告</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+
 
 需要by活動批次產生申請單的功能，並狀態為"供應商填寫"，就是直接送給\[表單權責單位]來填單
 
