@@ -171,7 +171,7 @@ UAT測試：10/7\~10/11  (5D)
 
 角色與功能操作權限表
 
-<table><thead><tr><th width="338">功能操作/角色</th><th width="115">中央健衛</th><th>申請單位</th><th>公關公司</th><th>供應商</th></tr></thead><tbody><tr><td>[列表頁] 新增</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[列表頁] 查看明細</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[列表頁] 匯入</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[列表頁] 取消申請</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 發起</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 取消申請</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 填寫資訊 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 審核資訊 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 抽樣品項 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 流程簽核紀錄 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][供應商填寫] 送審</td><td>X</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][供應商填寫] 取消申請</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][供應商填寫] 填寫資訊 頁籤</td><td>X</td><td></td><td></td><td></td></tr><tr><td>[明細頁][供應商填寫] 審核資訊 頁籤</td><td>X</td><td></td><td></td><td></td></tr><tr><td>[明細頁][供應商填寫] 抽樣品項 頁籤</td><td></td><td></td><td></td><td></td></tr><tr><td>[明細頁][供應商填寫] 流程簽核紀錄 頁籤</td><td></td><td></td><td></td><td></td></tr><tr><td>[明細頁][已提交] 審核-審核通過</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][已提交] 審核-退回供應商</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][已提交] 取消申請</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][審核通過] 食品業者評估報告</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="338">功能操作/角色</th><th width="115">中央健衛</th><th>申請單位</th><th>公關公司</th><th>供應商</th></tr></thead><tbody><tr><td>[列表頁] 新增</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[列表頁] 查看明細</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[列表頁] 匯入</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[列表頁] 取消申請</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 發起</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 取消申請</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 填寫資訊 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 審核資訊 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 抽樣品項 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 流程簽核紀錄 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][供應商填寫] 送審</td><td>X</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][供應商填寫] 取消申請</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][供應商填寫] 填寫資訊 頁籤</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][供應商填寫] 審核資訊 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][供應商填寫] 抽樣品項 頁籤</td><td>V</td><td>V(僅讀)</td><td>V(僅讀)</td><td>V(僅讀)</td></tr><tr><td>[明細頁][供應商填寫] 流程簽核紀錄 頁籤</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][已提交] 審核-審核通過</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][已提交] 審核-退回供應商</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][已提交] 取消申請</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][審核通過] 食品業者評估報告</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 
 
@@ -229,8 +229,9 @@ UAT測試：10/7\~10/11  (5D)
 
 
 
-* 頁尾顯示文件版本號碼(如下圖示)，版號可由系統設定(User走完文件改版簽核後會提供)，系統可維護多個版本的pdf template。
-* 新活動預設套用最新版 (從版號無法辨識新舊版，系統需自行紀錄版本時間)，需紀錄於活動上。舊活動若用舊版，在查詢時要能正確套用到舊版的文件pdf template。e.g. 現在版本是OP-FS005-02B for "2025新春選禮"活動，未來若出了新版OP-FS007-13C for "2025家庭日"，到時若查詢 "2025新春選禮"的食品業者評估報告，要能正確套用到OP-FS005-02B版本的pdf
+* 頁尾顯示文件版本號碼(如下圖示)，版號可由系統生成，系統可維護多個版本的pdf template。
+* 版號規則：前面固定，最後一碼英文遞增，e.g. 下一版是OP-FS005-02C，再下一版是OP-FS005-02D，依此類推。
+* 新活動預設套用最新版 (從版號無法辨識新舊版，系統需自行紀錄版本時間)，需紀錄於活動上。舊活動若用舊版，在查詢時要能正確套用到舊版的文件pdf template。e.g. 現在版本是OP-FS005-02B for "2025新春選禮"活動，未來若出了新版OP-FS005-02C for "2025家庭日"，到時若查詢 "2025新春選禮"的食品業者評估報告，要能正確套用到OP-FS005-02B版本的pdf
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
