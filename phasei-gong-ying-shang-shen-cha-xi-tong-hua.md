@@ -167,7 +167,7 @@ UAT測試：10/7\~10/11  (5D)
 
 ### 4. 食品業者評估申請表
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>狀態圖</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>狀態圖</p></figcaption></figure>
 
 角色與功能操作權限表
 
@@ -213,6 +213,7 @@ UAT測試：10/7\~10/11  (5D)
 * 審核資訊tab-活動審核資料
   * 新增欄位：文件審查報告編號，讓食安組自行key in
   * 移除審查資料檢核 (移到填寫資訊-應備文件操作)
+  * 增加“不符合法規事件”，可選擇符合/不符合/不適用，最終呈現在報告內
 
 
 
@@ -232,6 +233,19 @@ UAT測試：10/7\~10/11  (5D)
 * 頁尾顯示文件版本號碼(如下圖示)，版號可由系統生成，系統可維護多個版本的pdf template。
 * 版號規則：前面固定，最後一碼英文遞增，e.g. 下一版是OP-FS005-02C，再下一版是OP-FS005-02D，依此類推。
 * 新活動預設套用最新版 (從版號無法辨識新舊版，系統需自行紀錄版本時間)，需紀錄於活動上。舊活動若用舊版，在查詢時要能正確套用到舊版的文件pdf template。e.g. 現在版本是OP-FS005-02B for "2025新春選禮"活動，未來若出了新版OP-FS005-02C for "2025家庭日"，到時若查詢 "2025新春選禮"的食品業者評估報告，要能正確套用到OP-FS005-02B版本的pdf
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+* 資料審查部分
+  * 資料審查結果只顯示：符合/不符合/不適用
+  * 刪除第九項 其他
+  * 第七項 不符合法規事件，抓表單內審核資訊tab內的不符合法規事件呈現
+  * 第八項 樣品抽樣結果，抓取表單內抽樣品項tab資訊
+    * 件數加總所有抽樣品項
+    * 檢驗結果全部抽樣品項都合格才顯示符合
+    * 樣品報告編號：抓每項檢驗報告編號呈現
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
