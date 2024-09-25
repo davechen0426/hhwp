@@ -6,13 +6,17 @@ description: 版本管理
 
 ## 版本管理
 
+
+
+{% file src=".gitbook/assets/車屏APP版本管理.xlsx" %}
+
 ### <mark style="color:red;">寶儷明版</mark>
 
 #### 需求內容
 
 <details>
 
-<summary>14版</summary>
+<summary>14版 (Unreleased)</summary>
 
 包含需求：
 
