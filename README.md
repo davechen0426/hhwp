@@ -1,19 +1,6 @@
 ---
-description: 版本管理
+description: 需求訪談
 ---
 
-# Index
+# 需求訪談
 
-
-
-{% content-ref url="app-ban-ben-guan-li.md" %}
-[app-ban-ben-guan-li.md](app-ban-ben-guan-li.md)
-{% endcontent-ref %}
-
-{% content-ref url="release-history.md" %}
-[release-history.md](release-history.md)
-{% endcontent-ref %}
-
-{% content-ref url="xu-qiu-shuo-ming/" %}
-[xu-qiu-shuo-ming](xu-qiu-shuo-ming/)
-{% endcontent-ref %}

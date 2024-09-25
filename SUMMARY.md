@@ -1,11 +1,6 @@
 # Table of contents
 
-* [Index](README.md)
-* [APP版本管理](app-ban-ben-guan-li.md)
-* [Release History](release-history.md)
-* [需求說明](xu-qiu-shuo-ming/README.md)
-  * [SR001 時間校正機制](xu-qiu-shuo-ming/sr001-shi-jian-jiao-zheng-ji-zhi.md)
-  * [SR002 優化處理cmd機制](xu-qiu-shuo-ming/sr002-you-hua-chu-li-cmd-ji-zhi.md)
-  * [SR003 Log優化](xu-qiu-shuo-ming/sr003-log-you-hua.md)
-* [Work in progress](work-in-progress/README.md)
-  * [收費廣告規劃](work-in-progress/shou-fei-guang-gao-gui-hua.md)
+* [需求訪談](README.md)
+  * [24/10/3開工日](xu-qiu-fang-tan/24103-kai-gong-ri.md)
+* [System Architecture](system-architecture.md)
+* [SA & SD](sa-and-sd.md)
