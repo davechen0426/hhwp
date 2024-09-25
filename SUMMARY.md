@@ -2,6 +2,7 @@
 
 * [Index](README.md)
 * [APP版本管理](app-ban-ben-guan-li.md)
+* [Release History](release-history.md)
 * [需求說明](xu-qiu-shuo-ming/README.md)
   * [SR001 時間校正機制](xu-qiu-shuo-ming/sr001-shi-jian-jiao-zheng-ji-zhi.md)
   * [SR002 優化處理cmd機制](xu-qiu-shuo-ming/sr002-you-hua-chu-li-cmd-ji-zhi.md)
