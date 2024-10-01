@@ -95,7 +95,7 @@ UAT測試：10/7\~10/11  (5D)
 
 ## 系統流程設計
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 流程說明
 
@@ -167,11 +167,11 @@ UAT測試：10/7\~10/11  (5D)
 
 ### 4. 食品業者評估申請表
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>狀態圖</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>狀態圖</p></figcaption></figure>
 
 角色與功能操作權限表
 
-<table><thead><tr><th width="338">[頁面][狀態] 功能操作   /   角色</th><th width="115">中央健衛</th><th>申請單位</th><th>公關公司</th><th>供應商</th></tr></thead><tbody><tr><td>[列表頁][all] 查詢功能</td><td>V</td><td>V</td><td>V</td><td>X</td></tr><tr><td>[列表頁][all] 新增</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[列表頁][all] 查看明細</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[列表頁][all] 匯入</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[列表頁][all] 刪除(取消申請)</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][all] 審核資訊 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][all] 抽樣品項 頁籤</td><td>V</td><td>V(僅讀)</td><td>V(僅讀)</td><td>V(僅讀)</td></tr><tr><td>[明細頁][all] 流程簽核紀錄 頁籤</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][草稿] 發起</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 刪除(取消申請)</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 填寫資訊 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][供應商填寫] 送審</td><td>X</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][供應商填寫] 刪除(取消申請)</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][供應商填寫] 填寫資訊 頁籤</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][已提交] 審核-審核通過</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][已提交] 審核-退回供應商</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][已提交] 刪除(取消申請)</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][已提交] 填寫資訊 頁籤</td><td>V</td><td>V(僅讀)</td><td>V(僅讀)</td><td>V(僅讀)</td></tr><tr><td>[明細頁][審核通過] 食品業者評估報告</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][審核通過] 填寫資訊 頁籤</td><td>V</td><td>V(僅讀)</td><td>V(僅讀)</td><td>V(僅讀)</td></tr><tr><td>[明細頁][取消申請] 填寫資訊 頁籤</td><td>V(僅讀)</td><td>V(僅讀)</td><td>V(僅讀)</td><td>V(僅讀)</td></tr></tbody></table>
+<table><thead><tr><th width="338">[頁面][狀態] 功能操作   /   角色</th><th width="115">中央健衛</th><th>申請單位</th><th>公關公司</th><th>供應商</th></tr></thead><tbody><tr><td>[列表頁][all] 查詢功能</td><td>V</td><td>V</td><td>V</td><td>X</td></tr><tr><td>[列表頁][all] 新增</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[列表頁][all] 查看明細</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[列表頁][all] 匯入</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[列表頁][all] 刪除(取消申請)</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][all] 審核資訊 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][all] 抽樣品項 頁籤</td><td>V</td><td>V(僅讀)</td><td>V(僅讀)</td><td>V(僅讀)</td></tr><tr><td>[明細頁][all] 流程簽核紀錄 頁籤</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][草稿] 發起</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 刪除(取消申請)</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][草稿] 填寫資訊 頁籤</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][供應商填寫] 送審</td><td>X</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][供應商填寫] 刪除(取消申請)</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][供應商填寫] 填寫資訊 頁籤</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>[明細頁][審核中] 審核-審核通過</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][審核中] 審核-退回供應商</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][審核中] 刪除(取消申請)</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][審核中] 填寫資訊 頁籤</td><td>V</td><td>V(僅讀)</td><td>V(僅讀)</td><td>V(僅讀)</td></tr><tr><td>[明細頁][審核通過] 食品業者評估報告</td><td>V</td><td>X</td><td>X</td><td>X</td></tr><tr><td>[明細頁][審核通過] 填寫資訊 頁籤</td><td>V</td><td>V(僅讀)</td><td>V(僅讀)</td><td>V(僅讀)</td></tr><tr><td>[明細頁][取消申請] 填寫資訊 頁籤</td><td>V(僅讀)</td><td>V(僅讀)</td><td>V(僅讀)</td><td>V(僅讀)</td></tr></tbody></table>
 
 
 
@@ -190,7 +190,7 @@ UAT測試：10/7\~10/11  (5D)
 
     e.g.
 
-    <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 *   填寫資訊tab-應備文件
 
     * 只要第一階層資料夾即可，不用再根據不同文件細分子資料夾
@@ -227,7 +227,7 @@ UAT測試：10/7\~10/11  (5D)
 * 提供匯出單一筆"食品業者評估報告"pdf檔案的功能
   * 其中供應品項列出所有禮盒名稱(不用顯示內含的每項商品)，包含禮盒及單一獨立商品 (如下圖示)
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -235,7 +235,7 @@ UAT測試：10/7\~10/11  (5D)
 * 版號規則：前面固定，最後一碼英文遞增，e.g. 下一版是OP-FS005-02C，再下一版是OP-FS005-02D，依此類推。
 * 新活動預設套用最新版 (從版號無法辨識新舊版，系統需自行紀錄版本時間)，需紀錄於活動上。舊活動若用舊版，在查詢時要能正確套用到舊版的文件pdf template。e.g. 現在版本是OP-FS005-02B for "2025新春選禮"活動，未來若出了新版OP-FS005-02C for "2025家庭日"，到時若查詢 "2025新春選禮"的食品業者評估報告，要能正確套用到OP-FS005-02B版本的pdf
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -248,5 +248,5 @@ UAT測試：10/7\~10/11  (5D)
     * 檢驗結果全部抽樣品項都合格才顯示符合
     * 樣品報告編號：抓每項檢驗報告編號呈現
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
