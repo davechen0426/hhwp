@@ -22,5 +22,3 @@ QR code cross APP到T-EX產生後過閘，Tmaas不顯示
 
 7.導航：類似citymapper，運具切換時要提醒，若用手機導航就交由手機內建導航來做
 
-8\.
-
