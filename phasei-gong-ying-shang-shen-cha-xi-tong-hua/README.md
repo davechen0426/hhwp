@@ -32,7 +32,7 @@ UAT測試：10/7\~10/11  (5D)
 
 上線後驗證：10/15\~10/18 (4D)
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -95,7 +95,7 @@ UAT測試：10/7\~10/11  (5D)
 
 ## 系統流程設計
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 流程說明
 
@@ -167,7 +167,7 @@ UAT測試：10/7\~10/11  (5D)
 
 ### 4. 食品業者評估申請表
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>狀態圖</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>狀態圖</p></figcaption></figure>
 
 角色與功能操作權限表
 
@@ -190,12 +190,12 @@ UAT測試：10/7\~10/11  (5D)
 
     e.g.
 
-    <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 *   填寫資訊tab-應備文件
 
     * 只要第一階層資料夾即可，不用再根據不同文件細分子資料夾
 
-    <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -204,7 +204,7 @@ UAT測試：10/7\~10/11  (5D)
     * 供應商不能變更圖標
     * 產出食品業者評估報告的審查結果直接看這邊的圖標
 
-    <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 
 * 抽樣品項tab，改為獨立tab，是表單附加資訊，
@@ -227,7 +227,7 @@ UAT測試：10/7\~10/11  (5D)
 * 提供匯出單一筆"食品業者評估報告"pdf檔案的功能
   * 其中供應品項列出所有禮盒名稱(不用顯示內含的每項商品)，包含禮盒及單一獨立商品 (如下圖示)
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -235,7 +235,7 @@ UAT測試：10/7\~10/11  (5D)
 * 版號規則：前面固定，最後一碼英文遞增，e.g. 下一版是OP-FS005-02C，再下一版是OP-FS005-02D，依此類推。
 * 新活動預設套用最新版 (從版號無法辨識新舊版，系統需自行紀錄版本時間)，需紀錄於活動上。舊活動若用舊版，在查詢時要能正確套用到舊版的文件pdf template。e.g. 現在版本是OP-FS005-02B for "2025新春選禮"活動，未來若出了新版OP-FS005-02C for "2025家庭日"，到時若查詢 "2025新春選禮"的食品業者評估報告，要能正確套用到OP-FS005-02B版本的pdf
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -248,5 +248,7 @@ UAT測試：10/7\~10/11  (5D)
     * 檢驗結果全部抽樣品項都合格才顯示符合
     * 樣品報告編號：抓每項檢驗報告編號呈現
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+
 
