@@ -5,5 +5,7 @@
   * [24/10/14 用戶需求訪談](xu-qiu-fang-tan/241014-yong-hu-xu-qiu-fang-tan.md)
   * [24/10/16 kickoff](xu-qiu-fang-tan/24-10-16-kickoff.md)
   * [24/10/21 專案工作小組需求訪談計劃說明](xu-qiu-fang-tan/241021-zhuan-an-gong-zuo-xiao-zu-xu-qiu-fang-tan-ji-hua-shuo-ming.md)
+* [24/10/24 上午場次：運具整合](241024-shang-wu-chang-ci-yun-ju-zheng-he.md)
+* [24/10/24 下午場次：訂票/票務服務](241024-xia-wu-chang-ci-ding-piao-piao-wu-fu-wu.md)
 * [System Architecture](system-architecture.md)
 * [SA & SD](sa-and-sd.md)
