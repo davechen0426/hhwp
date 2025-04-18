@@ -50,3 +50,21 @@
 **Q9 是選供應商食材登錄表的品項？**
 
 **Q10 只有三項？還是可動態新增**
+
+
+
+
+
+## 系統流程設計
+
+
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
