@@ -1,8 +1,14 @@
 # 系統資訊
 
-正式環境
 
-{% embed url="https://app.foxconn.com/scai/login" %}
+
+### 環境
+
+| 環境   | URL                                                                                |
+| ---- | ---------------------------------------------------------------------------------- |
+| 正式環境 | [https://app.foxconn.com/scai/login](https://app.foxconn.com/scai/login)           |
+| UAT  | [https://maas.foxconn.com/scai/login](https://maas.foxconn.com/scai/login)         |
+| DEV  | [https://dev-maas.foxconn.com/scai/login](https://dev-maas.foxconn.com/scai/login) |
 
 ### 系統帳號
 

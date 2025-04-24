@@ -1,6 +1,4 @@
-# Phase II 定期稽查/原料追朔
-
-2025/03/25 內部討論 w/Jesse, Ricky
+# 2025/03/25 內部討論 w/Jesse, Ricky
 
 \
 **P1優化**
@@ -50,21 +48,3 @@
 **Q9 是選供應商食材登錄表的品項？**
 
 **Q10 只有三項？還是可動態新增**
-
-
-
-
-
-## 系統流程設計
-
-
-
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
