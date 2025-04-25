@@ -4,11 +4,7 @@
 
 ### 環境
 
-| 環境   | URL                                                                                |
-| ---- | ---------------------------------------------------------------------------------- |
-| 正式環境 | [https://app.foxconn.com/scai/login](https://app.foxconn.com/scai/login)           |
-| UAT  | [https://maas.foxconn.com/scai/login](https://maas.foxconn.com/scai/login)         |
-| DEV  | [https://dev-maas.foxconn.com/scai/login](https://dev-maas.foxconn.com/scai/login) |
+<table><thead><tr><th>環境</th><th width="306.84375">URL</th><th width="311.3671875">位置</th></tr></thead><tbody><tr><td>正式環境</td><td><a href="https://app.foxconn.com/scai/login">https://app.foxconn.com/scai/login</a></td><td>虎躍雲</td></tr><tr><td>UAT</td><td><a href="https://maas.foxconn.com/scai/login">https://maas.foxconn.com/scai/login</a></td><td>azure</td></tr><tr><td>DEV</td><td><a href="https://dev-maas.foxconn.com/scai/login">https://dev-maas.foxconn.com/scai/login</a></td><td>azure</td></tr></tbody></table>
 
 ### 系統帳號
 
