@@ -16,7 +16,7 @@ description: 版本管理
 
 <details>
 
-<summary>14版 (Unreleased)</summary>
+<summary>14版 (1.2.7.3809fa4(14))</summary>
 
 包含需求：
 
@@ -142,6 +142,20 @@ Log優化機制 時間固定顯示功能，無can bus時間校正功能
 ### <mark style="color:red;">寶錄版</mark>
 
 #### 需求內容
+
+<details>
+
+<summary>9版(unreleased)</summary>
+
+包含需求：
+
+1. SR001 時間校正機制
+2. SR002 優化處理cmd機制
+3. SR003 Log 優化
+4. APP設備資料回傳後台
+5. APP版本更新API多傳設備ID及車號
+
+</details>
 
 <details>
 
