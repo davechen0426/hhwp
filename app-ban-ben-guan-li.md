@@ -145,7 +145,7 @@ Log優化機制 時間固定顯示功能，無can bus時間校正功能
 
 <details>
 
-<summary>9版(unreleased)</summary>
+<summary>9版(1.2.4ff78b9(9))</summary>
 
 包含需求：
 
