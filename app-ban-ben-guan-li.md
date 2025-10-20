@@ -82,10 +82,15 @@ description: 版本管理
 
 <details>
 
-<summary>18版 (Unreleased)</summary>
+<summary>18版 (1.2.eeb23da(18))</summary>
 
-1. APP設備資料回傳後台 (測試通過)
-2. APP版本更新API多傳設備ID及車號 (測試通過)
+包含需求：
+
+1. SR001 時間校正機制
+2. SR002 優化處理cmd機制
+3. SR003 Log 優化
+4. APP設備資料回傳後台
+5. APP版本更新API多傳設備ID及車號
 
 </details>
 
