@@ -15,11 +15,14 @@ Jeff X.S. Huang (黃信森) jeff.xs.huang@foxconn.com\
 Vicky.Chang (張采瑩) vicky.chang@foxconn.com\
 Zoe Y.C. Lin (林雨蓁) zoe.yc.lin@foxconn.com\
 Danny C.W. Mou (牟家緯) danny.cw.mou@foxconn.com\
-Migo Y.H. Lin (林毓嬛) migo.yh.lin@foxconn.com\
-
+Migo Y.H. Lin (林毓嬛) migo.yh.lin@foxconn.com<br>
 
 **公關公司(小編)**
 
 蘇洛瑜 vivian@longlove.tw \
-許銘軒 ryan@longlove.tw
+張筱珮 patty@longlove.tw\
+高仁豪 robert@longlove.tw\
+游煒鏮 kevin@longlove.tw<br>
+
+
 
